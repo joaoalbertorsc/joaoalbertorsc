@@ -2,8 +2,8 @@
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoalbertorsc&show_icons=true&theme=dark" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoalbertorsc&theme=dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoalbertorsc&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoalbertorsc&theme=dark" height="150"/>
 </div>
 
 <div align="center">
