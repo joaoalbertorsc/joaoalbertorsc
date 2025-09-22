@@ -16,11 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </div>
 
-<h3>Roadmap Sh Card</h3>
-<a href="https://roadmap.sh/u/joaoalbertorsc">
-  <img src="https://roadmap.sh/card/tall/6702e109fb4be684db15b210?variant=dark&roadmaps=aws%2Cbackend%2Cspring-boot%2Cjava"/>
-</a>
-
 ### 🌐 Me encontre por aqui:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoalbertorsc/)
