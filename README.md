@@ -1,3 +1,5 @@
+Emaio Ebac: jaoalbertorsc@gmail.com
+
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=joaoalbertorsc&show_icons=true&theme=dark" height="150" alt="GitHub Stats"/>
