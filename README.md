@@ -1,4 +1,4 @@
-Emaio Ebac: jaoalbertorsc@gmail.com
+Email Ebac: jaoalbertorsc@gmail.com
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
