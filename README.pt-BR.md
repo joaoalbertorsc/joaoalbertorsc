@@ -1,4 +1,4 @@
-# João Alberto Costa
+# João Alberto R. S. Costa
 
 **Desenvolvedor Back-End Java** com foco em Spring Boot, microsserviços orientados a eventos e Apache Kafka.
 
